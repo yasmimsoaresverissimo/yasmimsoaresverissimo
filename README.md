@@ -41,7 +41,7 @@ VALUES(0, 0, 'Brasil', 'Educação', 1, 'SEEC', 'Teste');
 
 INSERT INTO `user-service`.tbl_user
 (id, active, cpf, department_id, email, endereco, matricula, nome, password, rg, telefone)
-VALUES(0, 0, 123, 1, "yasmimx201@gmail.com", "Rua Joser B", NULL, 'Yasmim Soares', NULL, 986532, 9982546365);
+VALUES(0, 0, 123, 1, "", "Rua Joser B", NULL, 'Yasmim Soares', NULL, 986532, 9982546365);
 
 
 UPDATE `document-service`.tbl_mark
